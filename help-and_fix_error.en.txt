@@ -1,0 +1,25 @@
+Hello! Thank you for testing EK Editor v0.2.1.
+
+This version is a Pre-release, so there may be bugs.
+
+If you encounter any problems, please send a bug report to my email address so I can fix it as soon as possible.
+
+---
+
+Bug Report and/or Solution Request:
+
+1. Problem Description: State what happened (e.g., "When I click the Save button, the application closes").
+
+2. Reproducible Error Steps: List the specific steps for me to reproduce the error on my machine. (e.g., 1. Open the application. 2. Type a letter. 3. Click File -> Save.)
+3. System Information: Name of the operating system you are using (e.g., openSUSE Leap 15.5, Ubuntu 24.04).
+
+4. Attachments: If possible, please attach a screenshot or a text file of the error if the application generates it.
+
+5. Solution (Optional): If you are a developer and have found a way to fix the error yourself, please send back the corrected source code (ek_editor-vi.py) or a patch file to my email. This will help the project get updated much faster!
+
+---
+
+Bug Email Address:
+[windows111beta12@gmail.com]
+
+Thanks for your support!

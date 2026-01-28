@@ -1,0 +1,21 @@
+Xin chào! Cảm ơn bạn đã thử nghiệm EK Editor v0.2.1.
+
+Phiên bản này là Pre-release (Bản phát hành trước), vì vậy có thể có lỗi (bugs).
+Nếu bạn gặp bất kỳ sự cố nào, vui lòng gửi báo cáo lỗi về địa chỉ email của tôi để tôi có thể khắc phục nhanh nhất.
+
+---
+
+Yêu cầu báo cáo lỗi và/hoặc Giải pháp:
+
+1. Mô tả vấn đề: Nêu rõ điều gì đã xảy ra (ví dụ: "Khi tôi bấm vào nút Save, ứng dụng bị đóng").
+2. Các bước tái tạo lỗi: Liệt kê các bước cụ thể để tôi có thể gặp lại lỗi đó trên máy của tôi. (Ví dụ: 1. Mở ứng dụng. 2. Gõ chữ. 3. Bấm File -> Save.)
+3. Thông tin hệ thống: Tên hệ điều hành bạn đang sử dụng (ví dụ: openSUSE Leap 15.5, Ubuntu 24.04).
+4. Đính kèm: Nếu có thể, hãy gửi kèm ảnh chụp màn hình hoặc file văn bản lỗi nếu ứng dụng tạo ra.
+5. Giải pháp (Tùy chọn): Nếu bạn là nhà phát triển và đã tự mình tìm ra cách khắc phục lỗi, vui lòng gửi lại file mã nguồn (ek_editor-vi.py) đã sửa chữa hoặc một bản vá (patch file) về email của tôi. Việc này sẽ giúp dự án được cập nhật nhanh hơn rất nhiều!
+
+---
+
+Địa chỉ Email Gửi Lỗi:
+[windows111beta12@gmail.com]
+
+Cảm ơn sự hỗ trợ của bạn!
